@@ -2,11 +2,12 @@ PLANNING LEARN AND PRACTICE
 - JavaScript
 * E56
 * Framework Javascript
-  ^ Angular
-  ^ Array
-  ^ Reacct
+  ^ Value
+  ^ React
+- Stuktur Data Center
 - PHP Framework
-  ^ Laravel
+  ^ Larafel
 - React
 - Interview
 - Test
+  ^ Phyton
