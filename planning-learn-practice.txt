@@ -2,8 +2,11 @@ PLANNING LEARN AND PRACTICE
 - JavaScript
 * E56
 * Framework Javascript
+  ^ Value
+  ^ React
 - Stuktur Data Center
 - PHP Framework
+  ^ Larafel
 - React
 - Interview
 - Test
