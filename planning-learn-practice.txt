@@ -1,5 +1,7 @@
 PLANNING LEARN AND PRACTICE
 - JavaScript
+* E56
+* Framework Javascript
 - PHP Framework
 - React
 - Interview
