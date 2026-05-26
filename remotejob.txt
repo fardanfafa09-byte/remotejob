@@ -1,7 +1,6 @@
 REMOTE JOB
 - Konsisten belajar Frontend Programmer Website
 - Membuat project untuk latihan
-- Membuat forum diskusi
 - Should have remote freelance job
 - Collabs programmer expert
 - More practice
